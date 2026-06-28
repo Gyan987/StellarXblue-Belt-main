@@ -1508,7 +1508,7 @@ dependencies = [
 
 [[package]]
 name = "windows-interface"
-version = "0.59.3".
+version = "0.59.3"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "3f316c4a2570ba26bbec722032c4099d8c8bc095efccdc15688708623367e358"
 dependencies = [
