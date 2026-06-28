@@ -1,4 +1,4 @@
-# Rust build output — never commit this (hundreds of MB)...
+# Rust build output — never commit this (hundreds of MB)
 democontract/target/
 
 # External CLI tools — not part of the project
