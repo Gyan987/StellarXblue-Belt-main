@@ -239,6 +239,7 @@ You're done when:
 - [x] Can connect wallet
 - [x] Can create contract without "UnreachableCodeReached" error
 - [x] Contract appears in dashboard
+- [x] Transactions visible on Stellar Explorer
 
 ---
 
