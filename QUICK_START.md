@@ -224,7 +224,7 @@ npm run dev
 ### Build fails with "target not found"
 → Run `rustup target add wasm32-unknown-unknown`
 
-### Stellar CLI not found
+### Stellar CLI not found.
 → Install from https://soroban.stellar.org/docs/getting-started/setup
 
 ---
