@@ -229,7 +229,7 @@ npm run dev
 
 ---
 
-## ✅ Success Checklist
+## ✅ Success Checklist.
 
 You're done when:
 - [x] Contract builds without errors
