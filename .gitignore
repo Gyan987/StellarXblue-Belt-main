@@ -4,7 +4,7 @@ democontract/target/
 # External CLI tools — not part of the project
 stellar-cli-main/
 
-# Node
+# Node important
 trustwork-ui/node_modules/
 trustwork-ui/dist/
 trustwork-ui/dist-ssr/
