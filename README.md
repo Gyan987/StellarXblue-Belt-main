@@ -342,7 +342,7 @@ Display on personalized dashboard
 
 We've shared TrustWork with the Stellar community to gather feedback and drive adoption:
 
-**→ [View Twitter/X Post](https://x.com/krit_giri/status/2050516673879527867)**
+**→ [View Twitter/X Post](https://x.com/gy/status/2050516673879527867)**
 
 The post includes:
 - Vercel deployed link for live testing
@@ -555,7 +555,7 @@ MIT — free to use, modify, and distribute.
 
 <div align="center">
 
-[🌐 Live App](https://trust-work26.vercel.app) &nbsp;•&nbsp; [📹 Demo Video](https://github.com/krit-k7/StellarXblue-Belt/raw/main/ScreenRecording/demo.mp4) &nbsp;•&nbsp; [📊 User Feedback](https://docs.google.com/spreadsheets/d/10T2ffMEWhxmX97yFe9HG5z5gC-0IqlprxsF2_YdVZj4/edit?usp=sharing) &nbsp;•&nbsp; [🐛 Issues](https://github.com/Vedang24-hash/TrustWork26/issues)
+[🌐 Live App](https://trust-work26.vercel.app) &nbsp;•&nbsp; [📹 Demo Video](https://github.com/gy-k7/StellarXblue-Belt/raw/main/ScreenRecording/demo.mp4) &nbsp;•&nbsp; [📊 User Feedback](https://docs.google.com/spreadsheets/d/10T2ffMEWhxmX97yFe9HG5z5gC-0IqlprxsF2_YdVZj4/edit?usp=sharing) &nbsp;•&nbsp; [🐛 Issues](https://github.com/Vedang24-hash/TrustWork26/issues)
 
 Built with ❤️ on Stellar
 
