@@ -342,7 +342,7 @@ Display on personalized dashboard
 
 We've shared TrustWork with the Stellar community to gather feedback and drive adoption:
 
-**→ [View Twitter/X Post](https://x.com/gy/status/2050516673879527867)**
+**→ [View Twitter/X Post](htts://x.com/gy/sta7)**
 
 The post includes:
 - Vercel deployed link for live testing
