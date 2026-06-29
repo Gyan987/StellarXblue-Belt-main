@@ -530,7 +530,7 @@ This project fulfills all required submission criteria:
 | **Metrics Dashboard** | ✅ Complete | User-specific dashboard (connect wallet at live demo) |
 | **Monitoring Dashboard** | ✅ Complete | [Vercel Analytics](https://vercel.com/dashboard) + [Stellar Expert](https://stellar.expert/explorer/testnet/contract/CBEUUVKJD2FM5CL57COXJV55HXYSEDW7VXRBJFWKDNZZRSHBMWQZUNQS) |
 | **Security Checklist** | ✅ Complete | [SECURITY_CHECKLIST.md](./SECURITY_CHECKLIST.md) |
-| **Community Contribution** | ✅ Complete | [Twitter/X Post](https://x.com/krit_giri/status/2050516673879527867) |
+| **Community Contribution** | ✅ Complete | [Twitter/X Post](https://x.com/gy/status/2050516673879527867) |
 | **Advanced Features** | ✅ Complete | Dispute resolution, auto-release, real-time chat (documented above) |
 | **Data Indexing** | ✅ Complete | Hybrid RPC + client-side caching (documented above) |
 | **Documentation** | ✅ Complete | This README + inline code comments |
